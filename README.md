@@ -1,1 +1,1 @@
-# 100-Days-ML-for-Enterprise-CyberSecurity
+# ML-for-Enterprise-CyberSecurity
